@@ -1,1 +1,2 @@
 # E-Projects
+Proyecto Escolar - Programa utilizando la herramienta de programación Python que propone mejorar la situación de bajo desempeño de los alumnos de 15 años en la prueba internacional PISA. El propósito es ofrecer un sistema de evaluación de práctica para estos alumnos en las áreas de física y química. Se muestran diferentes tipos de preguntas sobre distintos temas de ciencias además de que algunas preguntas cambian  o solo sus variables cada vez que se repite la prueba.
